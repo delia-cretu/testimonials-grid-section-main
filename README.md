@@ -12,13 +12,14 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 
 ## Overview
 
 ### The challenge
 
 Users should be able to:
+
+- View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
 
@@ -36,13 +37,12 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
+- Flexbox
 
 ### What I learned
 
-I gained a better understanding of how to use CSS Grid to create a mobiel responsive layout.
+I used CSS Grid to create the desktop layout and Flexbox for the mobile-responsive layout which helped me gain a better understanding of both.
 
 ### Continued development
 
-I continue to improve my knwoledge of CSS Grid.
-
-### Useful resources
+I struggled using CSS Grid to create the mobile layout which is why I chose to use Flexbox instead. I have more to learn about converting a grid layout into a 1-column layout suitable ofr mobile viewing.
