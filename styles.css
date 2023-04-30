@@ -144,25 +144,8 @@ body {
     justify-items: center;
     align-items: center;
 
-    height: 2060px;
     width: 325px;
-    margin: 100px 0;
-  }
-
-  .grid-box1 {
-    height: 450px;
-  }
-  .grid-box2 {
-    height: 270px;
-  }
-  .grid-box3 {
-    height: 260px;
-  }
-  .grid-box4 {
-    height: 420px;
-  }
-  .grid-box5 {
-    height: 480px;
+    margin: 100px auto;
   }
 
   .grid-box1,
